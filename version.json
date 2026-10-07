@@ -1,5 +1,5 @@
 {
     "version": "1.1.0",
-    "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/v1.1.0/Estacion.Meteorologica.exe",
-    "notas": "Nueva versión de la Estación Meteorológica."
+    "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/v1.1.0/Estacion%20Meteorologica.exe",
+    "notas": "Nueva versión con buscador de localidades de Argentina mediante GeoRef y mejoras en el sistema de actualización."
 }
