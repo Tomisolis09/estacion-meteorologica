@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/v2.0.1/Estacion%20Meteorologica.exe",
-  "notas": "Corrección del actualizador: ahora se instala sola aunque la app esté en una carpeta protegida."
+    "version": "2.0.1",
+    "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/v2.0.1/Estacion.Meteorologica.exe",
+    "notas": "Corrección del actualizador: ahora se instala sola aunque la app esté en una carpeta protegida."
 }
