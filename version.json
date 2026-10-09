@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/v1.1.0/Estacion%20Meteorologica.exe",
-    "notas": "Nueva versión con buscador de localidades de Argentina mediante GeoRef y mejoras en el sistema de actualización."
+    "version": "2.1.0",
+    "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/v2.1.0/Estacion.Meteorologica.exe",
+    "notas": "- El widget flotante ya no se pone encima de los programas.\n- La franja de la barra de tareas se oculta con programas a pantalla completa."
 }
