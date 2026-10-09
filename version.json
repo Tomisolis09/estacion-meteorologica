@@ -1,5 +1,5 @@
 {
-    "version": "2.1.0",
-    "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/2.1.0/Estacion.Meteorologica.exe",
-    "notas": "- El widget flotante ya no se pone encima de los programas.\n- La franja de la barra de tareas se oculta con programas a pantalla completa."
+  "version": "2.1.1",
+  "url": "https://github.com/Tomisolis09/estacion-meteorologica/releases/download/2.1.1/Estacion.Meteorologica.exe",
+  "notas": "- Corrige la actualización automática cuando la app está instalada en una carpeta con tildes."
 }
